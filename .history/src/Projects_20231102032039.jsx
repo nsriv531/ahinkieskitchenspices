@@ -11,12 +11,13 @@ function Projects() {
 
       <Project 
         title = "Grandmas Remedy"
-        step1 = "- Bring your water to boil"
-        step2 = "- Place your tea bag in a cup of choice"
-        step3 = "- Add water"
-        step4 = "- Add one spoon of honey or as desired"
-        step5 = "- Add half lemon"
-        step6 = "- Stir and enjoy"
+        step1 = "Bring your water to boil"
+        step2 = "Step 2"
+        step3 = "Step 3"
+        step4 = "This is the Grandma's Remedy Spice"
+        step5 = "This is the Grandma's Remedy Spice"
+        step6 = "This is the Grandma's Remedy Spice"
+        link="http://tasks.dentrisdms.com/"
         projectimage="https://imageupload.io/ib/WwvAYOJE5KAJ3ce_1698916477.png"
       /> 
       <Project 
